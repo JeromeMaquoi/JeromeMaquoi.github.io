@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jérôme Maquoi"
 title_separator          : "-"
 name                     : &name "Jérôme Maquoi"
-description              : &description "PhD student in computer science, working on Green Software Engineering"
+description              : &description "PhD student in Green Software Engineering"
 url                      : https://jeromemaquoi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JeromeMaquoi/JeromeMaquoi.github.io"
@@ -22,10 +22,10 @@ repository               : "JeromeMaquoi/JeromeMaquoi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jerome-maquoi.jpg"
   name             : "Jérôme Maquoi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in computer science, working on Green Software Engineering"
+  bio              : "PhD student in Green Software Engineering"
   location         : "Namur, Belgium"
   employer         : "University of Namur"
   uri              : # URL
