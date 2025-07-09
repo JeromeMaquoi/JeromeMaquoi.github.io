@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "SNAIL Team"
+    url: https://snail.info.unamur.be/
+
   # - title: "Talks"
   #   url: /talks/    
 
