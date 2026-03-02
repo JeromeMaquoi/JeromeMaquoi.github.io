@@ -11,5 +11,6 @@ Hello there ! My name is Jérôme Maquoi, and I am a PhD Student in Green Softwa
 
 ## Recent Updates
 
+- 2026-02-27 Participation in a television programme on [Boukè Média](https://www.bouke.media/) about the environmental impact of information technology in Namur, Belgium (in french)
 - 2026-01-23 Presentation of my work in Green SE at the [Journée GT Logiciel Eco-Responsable](https://gdr-gpl.cnrs.fr/?p=539) in Nantes, France
-- 2025-06-27 Presentation of my first paper at the [DevOpsSustain workshop](https://devopssustain.github.io/ws2025/), co-located with [FSE 2025](https://conf.researchr.org/home/fse-2025), Trondheim, Norway
+- 2025-06-27 Presentation of my first paper at the [DevOpsSustain workshop](https://devopssustain.github.io/ws2025/), co-located with [FSE 2025](https://conf.researchr.org/home/fse-2025) in Trondheim, Norway
