@@ -14,6 +14,9 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "CV"
+    url: /files/cv-jerome-maquoi-2026.pdf
+
   - title: "SNAIL Team"
     url: https://snail.info.unamur.be/
 
@@ -25,9 +28,6 @@ main:
 
   # - title: "Blog Posts"
   #   url: /year-archive/
-
-  # - title: "CV"
-  #   url: /cv/
 
   # - title: "CV"
   #   url: /cv-json/
