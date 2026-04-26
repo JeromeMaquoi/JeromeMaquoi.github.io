@@ -83,7 +83,21 @@ If you have bugfixes and enhancements that you would like to submit as a pull re
 
 Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
 
+## IndieWeb Compliance
+
+This site is [IndieWeb](https://indieweb.org/) compliant. The following features are implemented:
+
+- **`rel="me"` links** — identity verification via social profiles (GitHub, Mastodon, Bluesky, LinkedIn, ORCID)
+- **IndieAuth** — `rel="authorization_endpoint"` and `rel="token_endpoint"` via [indieauth.com](https://indieauth.com/)
+- **Webmention** — `rel="webmention"` endpoint via [webmention.io](https://webmention.io/)
+- **h-card** — microformats2 identity markup in the author sidebar
+- **h-entry** — microformats2 post markup on dated pages
+- **Feed** — Atom feed at `/feed.xml` via `jekyll-feed`
+
+See [`docs/indieweb.md`](docs/indieweb.md) for full details, endpoint configuration, and validation instructions.
+
 ---
+
 <div align="center">
     
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)

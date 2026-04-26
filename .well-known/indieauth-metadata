@@ -1,0 +1,10 @@
+---
+layout: none
+permalink: /.well-known/indieauth-metadata
+---
+{
+  "issuer": "{{ site.url }}/",
+  "authorization_endpoint": "https://indieauth.com/auth",
+  "token_endpoint": "https://tokens.indieauth.com/token",
+  "code_challenge_methods_supported": ["S256"]
+}
