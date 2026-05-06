@@ -30,10 +30,10 @@
 {% assign author = site.author %}
 {% if author.github %}<link rel="me" href="https://github.com/{{ author.github }}">{% endif %}
 {% if author.mastodon %}<link rel="me" href="{{ author.mastodon }}">{% endif %}
-{% if author.bluesky %}<link rel="me" href="https://bsky.app/profile/{{ author.bluesky }}">{% endif %}
-{% if author.linkedin %}<link rel="me" href="https://www.linkedin.com/in/{{ author.linkedin }}">{% endif %}
-{% if author.orcid %}<link rel="me" href="{{ author.orcid }}">{% endif %}
-{% if author.email %}<link rel="me" href="mailto:{{ author.email }}">{% endif %}
+{% if author.bluesky %}<link rel="me atproto" href="https://bsky.app/profile/{{ author.bluesky }}">{% endif %}
+{% if author.linkedin %}<link href="https://www.linkedin.com/in/{{ author.linkedin }}">{% endif %}
+{% if author.orcid %}<link href="{{ author.orcid }}">{% endif %}
+{% if author.email %}<link href="mailto:{{ author.email }}">{% endif %}
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 <link rel="webmention" href="https://webmention.io/{{ site.url | replace: 'https://', '' | replace: 'http://', '' }}/webmention">
