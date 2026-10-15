@@ -8,6 +8,8 @@ date: 2026-10-15
 location: "Munich, Germany"
 ---
 
+Presentation of the paper _EnergyTrackr: A Modular Energy Regresions Detection Tool_ at the ASE 2026 conference. The abstract of the paper is present below if you are interested.
+
 [Slides](https://jeromemaquoi.github.io/files/bechet-2026-slides.pdf)
 
 ## Abstract

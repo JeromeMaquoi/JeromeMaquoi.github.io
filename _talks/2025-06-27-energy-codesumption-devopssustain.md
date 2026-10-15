@@ -8,6 +8,8 @@ date: 2025-06-27
 location: "Trondheim, Norway"
 ---
 
+Presentation of the paper _Energy Codesumption, Leveraging Test Execution for Source Code Energy Consumption Analysis_ at the FSE 2025 conference. The abstract is present below for thow who are interested.
+
 [Slides](https://jeromemaquoi.github.io/files/maquoi-2025-slides.pdf)
 
 ## Abstract

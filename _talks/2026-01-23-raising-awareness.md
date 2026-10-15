@@ -8,6 +8,8 @@ date: 2026-01-23
 location: "Nantes, France"
 ---
 
+I was invited in Nantes to talk about the different projects I was working on at the beginning of 2026 in my PhD, to the day of the eco-responsible research day organized by the CNRS. More information below for those who are interested.
+
 [Slides](https://jeromemaquoi.github.io/files/20260123-nantes.pdf)
 
 Explanation of the different projects I am working on at this beginning of 2026, and of the projects I made in 2025.
